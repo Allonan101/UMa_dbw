@@ -1,0 +1,12 @@
+@charset "UTF-8";
+@import "resultado3.css";
+
+body{
+    background-color: darkgoldenrod;
+    color:burlywood;
+}
+.mydiv{
+    background-color: cadetblue;
+    color:aqua;
+
+}
